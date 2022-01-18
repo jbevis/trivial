@@ -22,7 +22,7 @@
     "body-parser": "^1.17.2",
     "css-loader": "^0.28.4",
     "express": "^4.15.3",
-    "fetch-mock": "^5.12.1",
+    "fetch-mock": "^6.0.0",
     "img-loader": "^2.0.0",
     "knex": "^0.13.0",
     "node-sass": "^4.5.3",
